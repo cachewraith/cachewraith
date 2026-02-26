@@ -56,6 +56,6 @@ I run **HushstackTeam**, a freelance team delivering modern web & backend soluti
 ## 🤝 Let's Connect
 > Add your links below (GitHub, LinkedIn, Portfolio, Email)
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your.email@example.com
+- GitHub: https://github.com/hongsomonor
+- Reddit: https://www.reddit.com/user/Outrageous-Pilot-943/
+- Email: somonorhong011@gmail.com
