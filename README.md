@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,go,nestjs,fastapi,js,nextjs,nuxtjs,dart,flutter,postgres,linux,arch,ubuntu,docker,nginx,git&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,tailwind,go,docker,linux,arch,flutter,react,postgres&perline=11" alt="Tech Stack" />
   </a>
 </p>
 
