@@ -1,77 +1,72 @@
 <div align="center">
 
-# 🚀 Somonor Hong
-### Backend Developer | Aspiring Software Engineer | Architect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=180&section=header&text=Somonor%20Hong&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Building+Secure+Microservices;Designing+Clean+Architecture;Mastering+System+Design;Laravel+%26+Go+Enthusiast" alt="Typing SVG" />
+### Backend Developer | Aspiring Software Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somonorhong011@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Secure+Microservices;Designing+Clean+Architecture;Mastering+System+Design;Laravel+%26+Go+Enthusiast" alt="Typing SVG" />
 
----
+<br/>
 
-### 🛠️ Professional Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hongsomonor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongsomonor&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:somonorhong011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.reddit.com/user/Outrageous-Pilot-943/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 
 </div>
 
 ---
 
-### 🧠 About Me
-- 🔭 **Focus:** Crafting secure, scalable, and production-ready APIs.
-- 🏗️ **Architecting:** Currently deep-diving into **DDD (Domain-Driven Design)** and **System Design**.
-- ⚡ **Performance:** Obsessed with query optimization and clean, reusable code.
-- 👥 **Leadership:** Lead at **HushstackTeam** — simulating enterprise SDLC workflows with a passionate team.
-- 🎯 **2026 Vision:** Transitioning from a Backend Developer to a high-level **Software Engineer/Architect**.
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🧠 About Me</h3>
+      <ul>
+        <li>🔭 <b>Focus:</b> Crafting secure, scalable, and production-ready APIs & Microservices.</li>
+        <li>🏗️ <b>Architecting:</b> Currently deep-diving into <b>Domain-Driven Design (DDD)</b> and <b>System Design</b>.</li>
+        <li>⚡ <b>Performance:</b> Obsessed with query optimization, clean architecture, and reusable code.</li>
+        <li>👥 <b>Leadership:</b> Lead at <b>HushstackTeam</b> — simulating enterprise SDLC workflows with a passionate team.</li>
+        <li>🎯 <b>2026 Vision:</b> Evolving from a Backend Developer into a high-level <b>Software Engineer/Architect</b>.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h3>💻 Tech Ecosystem</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,laravel,go,fastapi,nextjs,nuxtjs,tailwind,postgres,linux,arch,docker,git&perline=4" alt="Tech Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Ecosystem
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hongsomonor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongsomonor&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" alt="Top Languages" />
+</div>
 
-| **Category** | **Tools & Technologies** |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Architecture & Projects
 
-#### 🏢 [Hushstack Admin Portal](https://github.com/hushstack/Hushstack-Admin-Portal-Laravel)
-> **Enterprise-grade Admin Ecosystem**
-- **Tech:** Laravel, PostgreSQL, Blade.
-- **Highlights:** Implemented complex RBAC (Role-Based Access Control), modular architecture, and audited security layers.
-
-#### 🌦️ [Hushstack Weather App](https://github.com/hushstack/Hushstack-Weather-App)
-> **Real-time Data Visualization**
-- **Tech:** Vue/Nuxt, OpenWeather API.
-- **Highlights:** Focused on asynchronous data handling, UI/UX responsiveness, and error boundary management.
-
-#### 📋 [Task Manager Dashboard](https://github.com/hushstack/TaskManager-Dashboard-Nuxt)
-> **Productivity Engine**
-- **Tech:** Nuxt.js, Tailwind CSS.
-- **Highlights:** State management patterns and scalable component architecture.
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://github.com/hongsomonor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:somonorhong011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Outrageous-Pilot-943/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-</p>
-
-<br />
+| Project & Links | Architecture / Focus | Tech Stack |
+| :--- | :--- | :--- |
+| 🏢 **[Hushstack Admin Portal](https://github.com/hushstack/Hushstack-Admin-Portal-Laravel)** | **Enterprise-grade Admin Ecosystem:** Complex RBAC, modular architecture, and audited security layers. | `Laravel` `PostgreSQL` `Blade` |
+| 🌦️ **[Hushstack Weather App](https://github.com/hushstack/Hushstack-Weather-App)** | **Real-time Data Visualization:** Async data handling, UI/UX responsiveness, and error boundary management. | `Vue/Nuxt` `OpenWeather API` |
+| 📋 **[Task Manager Dashboard](https://github.com/hushstack/TaskManager-Dashboard-Nuxt)** | **Productivity Engine:** Advanced state management patterns and scalable component architecture. | `Nuxt.js` `Tailwind CSS` |
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer" width="100%" alt="Footer" />
 </div>
