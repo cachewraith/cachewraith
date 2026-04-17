@@ -71,7 +71,7 @@
 | Project & Links | Architecture / Focus | Tech Stack |
 | :--- | :--- | :--- |
 | 🏢 **[Hushstack Admin Portal](https://github.com/hushstack/Hushstack-Admin-Portal-Laravel)** | **Enterprise-grade Admin Ecosystem:** Complex RBAC, modular architecture, and audited security layers. | `Laravel` `PostgreSQL` `Blade` |
-| 🌦️ **[Hushstack Weather App](https://github.com/hushstack/Hushstack-Weather-App)** | **Real-time Data Visualization:** Async data handling, UI/UX responsiveness, and error boundary management. | `Vue/Nuxt` `OpenWeather API` |
+| 🌦️ **[Hushstack Weather App](https://github.com/hushstack/Hushstack-Weather-App)** | **Real-time Data Visualization:** Async data handling, UI/UX responsiveness, and error boundary management. | `React/Next` `OpenWeather API` |
 | 📋 **[Task Manager Dashboard](https://github.com/hushstack/TaskManager-Dashboard-Nuxt)** | **Productivity Engine:** Advanced state management patterns and scalable component architecture. | `Nuxt.js` `Tailwind CSS` |
 
 <div align="center">
