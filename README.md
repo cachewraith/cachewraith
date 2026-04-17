@@ -44,10 +44,21 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="195" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&card_width=400" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&card_width=300" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=cachewraith&theme=tokyonight&hide_border=true&background=1A1B27&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
