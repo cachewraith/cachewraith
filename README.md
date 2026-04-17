@@ -17,6 +17,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cachewraith&color=42A5F5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/cachewraith?label=Followers&style=for-the-badge&color=42A5F5&labelColor=1A1B27" alt="GitHub Followers" />
+</p>
+
 ### 🧠 About Me
 - 🔭 **Focus:** Crafting secure, scalable, and production-ready APIs & Microservices.
 - 🏢 **Current Role:** Backend Developer Intern at Scholarar, building scholarship management modules and handling complex integrations like the ABA PayWay API.
@@ -55,5 +60,15 @@
 | 📋 **[Task Manager Dashboard](https://github.com/hushstack/TaskManager-Dashboard-Nuxt)** | **Productivity Engine:** Advanced state management patterns and scalable component architecture. | `Nuxt.js` `Tailwind CSS` |
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg" />
+</picture>
