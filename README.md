@@ -31,7 +31,7 @@
 - 🎯 **2026 Vision:** Evolving into a high-level **Software Engineer/Architect**.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA3eHl5dnBqbTBmaG1xZWtzczNpdzh1bDN5Njc1ZGl2YjN2b2d6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fMrQAaRhI3rhKjhHZ/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/4fMrQAaRhI3rhKjhHZ/giphy.gif" width="400" />
 </p>
 
 ---
