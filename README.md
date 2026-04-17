@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Somonor Hong**
 
-**Backend Developer (Laravel)** → Growing into a **Software Engineer**  
-Founder of **HushstackTeam** 🚀
+**Backend Developer (Laravel)** → Growing into a **Software Engineer**
 
 I build **secure, scalable and production-ready APIs** and love designing clean architecture systems.
 
@@ -11,12 +10,19 @@ I build **secure, scalable and production-ready APIs** and love designing clean 
 - 💻 Backend focused (Laravel / APIs / Architecture)
 - 🔐 Passionate about **security, performance & clean code**
 - 🏗️ Currently learning **DDD • System Design • DevOps**
-- 🎯 Mission: Ship real systems used by real people
+- 👥 Collaborating with teammates to build real-world projects
+- 🎯 Mission: Ship reliable systems used by real people
 
 ---
 
-## 🚀 HushstackTeam — Freelance Team
-I run a small team delivering modern web apps and backend systems.
+## 👥 HushstackTeam (Practice Team)
+**HushstackTeam** is a small team I created with my co-workers to practice building real-world projects together and simulate real development workflows.
+
+**What we practice**
+- Building fullstack applications
+- Team collaboration & Git workflow
+- Clean architecture & reusable code
+- Deploying apps on Linux/VPS
 
 **Main stack we use**
 - Laravel + FastAPI (APIs)
@@ -90,8 +96,7 @@ Key highlights:
 ## 🎯 2026 Goals
 - Become a strong **Software Engineer**
 - Master **System Design & Architecture**
-- Build production SaaS products
-- Grow **HushstackTeam**
+- Build production SaaS-level projects
 
 ---
 
