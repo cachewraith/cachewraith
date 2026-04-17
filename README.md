@@ -43,17 +43,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongsomonor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongsomonor&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hongsomonor/hongsomonor/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
