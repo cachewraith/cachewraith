@@ -17,45 +17,32 @@
 
 ---
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🧠 About Me</h3>
-      <ul>
-        <li>🔭 <b>Focus:</b> Crafting secure, scalable, and production-ready APIs & Microservices.</li>
-        <li>🏗️ <b>Architecting:</b> Currently deep-diving into <b>Domain-Driven Design (DDD)</b> and <b>System Design</b>.</li>
-        <li>⚡ <b>Performance:</b> Obsessed with query optimization, clean architecture, and reusable code.</li>
-        <li>👥 <b>Leadership:</b> Lead at <b>HushstackTeam</b> — simulating enterprise SDLC workflows with a passionate team.</li>
-        <li>🎯 <b>2026 Vision:</b> Evolving from a Backend Developer into a high-level <b>Software Engineer/Architect</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <h3>💻 Tech Ecosystem</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,laravel,go,fastapi,nextjs,nuxtjs,tailwind,postgres,linux,arch,docker,git&perline=4" alt="Tech Stack" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🧠 About Me
+- 🔭 **Focus:** Crafting secure, scalable, and production-ready APIs & Microservices.
+- 🏢 **Current Role:** Backend Developer Intern at Scholarar, building scholarship management modules and handling complex integrations like the ABA PayWay API.
+- 🏗️ **Architecting:** Deep-diving into **Domain-Driven Design (DDD)**, **System Design**, and exploring highly scalable backends with **Go** and **NestJS**.
+- 💻 **Environment:** Power user optimizing workflows on **Arch Linux (Hyprland)** and **Ubuntu**.
+- 📱 **Mobile:** Expanding full-stack capabilities with **Flutter** and **GetX** for cross-platform apps.
+- 🎯 **2026 Vision:** Evolving into a high-level **Software Engineer/Architect**.
+
+---
+
+### 💻 Tech Ecosystem
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,go,nestjs,fastapi,js,nextjs,nuxtjs,dart,flutter,postgres,linux,arch,ubuntu,docker,nginx,git&perline=9" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cachewraith/cachewraith/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="195" alt="Top Languages" />
+</p>
 
 ---
 
