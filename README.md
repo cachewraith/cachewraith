@@ -20,7 +20,7 @@ I run a small team delivering modern web apps and backend systems.
 
 **Main stack we use**
 - Laravel + FastAPI (APIs)
-- Next.js (Frontend)
+- Next.js / Nuxt (Frontend)
 - PostgreSQL (Database)
 - Linux / VPS (Deployment)
 
@@ -38,6 +38,7 @@ I run a small team delivering modern web apps and backend systems.
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Database & DevOps
@@ -47,34 +48,42 @@ I run a small team delivering modern web apps and backend systems.
 
 ---
 
-## 📌 Featured Projects (From Another Account)
+## 📌 Featured Projects
 
-> I also build projects on another GitHub account.  
-> Here are some of my main works 👇
+### 🏢 Hushstack Admin Portal (Laravel)
+**Enterprise-style admin dashboard built with Laravel**
 
-### 🔐 Laravel Enterprise API
-**Secure REST API built with clean architecture**
-- Laravel 10 + PostgreSQL
-- OWASP Top 10 practices
-- Repository pattern + Service layer
-- JWT Authentication
-👉 https://github.com/YOUR_SECOND_ACCOUNT/YOUR_REPO
+🔗 https://github.com/hushstack/Hushstack-Admin-Portal-Laravel
 
----
-
-### 🛒 Fullstack Ecommerce System
-**Laravel API + Next.js Frontend**
-- Auth, Cart, Orders, Admin dashboard
-- Clean architecture + reusable components
-👉 https://github.com/YOUR_SECOND_ACCOUNT/YOUR_REPO
+Key highlights:
+- Authentication & role-based access
+- Admin dashboard architecture
+- Clean code structure & reusable components
+- Production-style backend practices
 
 ---
 
-### ⚡ FastAPI Microservice
-**High performance Python microservice**
-- Async API + PostgreSQL
-- Docker ready
-👉 https://github.com/YOUR_SECOND_ACCOUNT/YOUR_REPO
+### 🌦️ Hushstack Weather App
+**Weather application consuming external APIs**
+
+🔗 https://github.com/hushstack/Hushstack-Weather-App
+
+Key highlights:
+- API integration & data fetching
+- Clean UI + modern frontend practices
+- Real-world external API usage
+
+---
+
+### 📋 Task Manager Dashboard (Nuxt)
+**Modern dashboard built with Nuxt**
+
+🔗 https://github.com/hushstack/TaskManager-Dashboard-Nuxt
+
+Key highlights:
+- Dashboard UI architecture
+- Component-based frontend structure
+- Clean & scalable project organization
 
 ---
 
